@@ -1,0 +1,10 @@
+{
+  "hello": {
+    "en": "Hello, {}",
+    "arm": "Բարև ձեզ, {}",
+    "ru": "Привет, {}"
+  },
+  "untranslatable_greeting": {
+    "en": "Yoyo!"
+  }
+}

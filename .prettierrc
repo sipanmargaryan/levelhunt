@@ -1,0 +1,6 @@
+{
+  semi: false,
+  parser: flow,
+  printWidth: 120,
+  useTabs: true,
+}

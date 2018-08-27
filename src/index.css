@@ -1,0 +1,115 @@
+body{
+    font-size: 16px;
+}
+
+.header {
+    width: 100%;
+    border-bottom: 1px solid green
+}
+
+.header__logo-img {
+    width: 80%;
+    height: auto
+}
+
+.nav {
+    padding-top: 14px
+}
+
+.nav__menu {
+    list-style: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex
+}
+
+.nav__menu-list {
+    margin: 10px
+}
+
+.login__form_box {
+    width: 45%;
+    margin: 0 auto;
+    padding-top: 50px
+}
+
+.linkedin__btn {
+    width: 100%;
+    height: 40px;
+    background: #007bb6;
+    color: #fff;
+    border: none;
+    outline: 0;
+    cursor: pointer
+}
+
+.google__btn {
+    width: 100%;
+    height: 40px;
+    background: #dd4b39;
+    color: #fff;
+    border: none;
+    outline: 0;
+    cursor: pointer
+}
+
+.github__btn {
+    width: 100%;
+    height: 40px;
+    background: #444;
+    color: #fff;
+    outline: 0;
+    cursor: pointer;
+    border: none
+}
+
+.login__form_text {
+    text-align: center;
+    width: 100%
+}
+
+.form {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0
+}
+
+.form_input {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 40px;
+    margin-top: 0px;
+    padding-left: 10px;
+    border-radius: 0px !important;
+}
+.form_textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    max-height: 80px;
+    min-height: 80px;
+    margin-top: 0px;
+    padding-left: 10px;
+    border-radius: 0px !important;
+}
+
+.input__label {
+    line-height: 7px
+}
+
+.sign__in_btn {
+    width: 100%;
+    height: 40px
+}
+
+.signup__link {
+    margin-left: 10px
+}
+
+.login-page {
+    display: flex;
+    width: 100%;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
